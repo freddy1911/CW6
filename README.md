@@ -1,6 +1,6 @@
-                                                       Skymarket - рекламный сайт
+                                           Skymarket - рекламный сайт
 
-                                                              Реализация
+                                                   Реализация
 
         Backend: django restframework
 
