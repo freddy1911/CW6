@@ -1,8 +1,8 @@
                                                        Skymarket - рекламный сайт
 
-Реализация
+                                                              Реализация
 
-Backend: django restframework
+        Backend: django restframework
 
 DateBase: postgresql
 
